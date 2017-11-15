@@ -16,5 +16,5 @@ function tailsNeverFails(){
     tails++;
   }
 
-  return `You\'ve got $(tails} tails in a row!)`
+  return `You\'ve got ${tails} tails in a row!)`
 }
